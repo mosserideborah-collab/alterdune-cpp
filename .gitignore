@@ -1,0 +1,6 @@
+build/
+alterdune
+alterdune.exe
+*.o
+.vs/
+*.user
